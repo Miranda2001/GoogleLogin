@@ -1,0 +1,29 @@
+.id1{
+  position: relative;
+  top: -50px;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.id2{
+  position: relative;
+  top: -120px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: 450px;
+}
+.id3{
+  position: relative;
+  top: -120px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: 360px;
+}
+.id4{
+  background-color: grey;
+  position: relative;
+  top: -100px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: 360px;
+}
